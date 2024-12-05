@@ -1,4 +1,8 @@
 input.mov
 output.mov
 .venv
+*.mp4
+*.aac
+*.ac3
+*.mp3
 
